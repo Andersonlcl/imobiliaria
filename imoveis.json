@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Apart. 2 dorm. Messejana",
+        "descricao": "Lindo apartamento de 2 dormitórios localizado num dos melhores bairros de Fortaleza.",
+        "valor": 700000,
+        "area": 100,
+        "quartos": 2,
+        "tipo": "apartamento",
+        "localizacao": "Frei Cirilo, Messejana",
+        "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.97191106759!2d-38.50055822647727!3d-3.816144943621783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c74fed93af93bb%3A0x48775aef324c5cad!2sAv.%20Frei%20Cirilo%20-%20Messejana%2C%20Fortaleza%20-%20CE%2C%2060840-285!5e0!3m2!1spt-BR!2sbr!4v1729104381253!5m2!1spt-BR!2sbr' width='600' height='450' style='border:0;'' allowfullscreen=''loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "venda_aluguel": "venda",
+        "finalidade": "residencial",
+        "fotos": [
+            "https://images.pexels.com/photos/7031621/pexels-photo-7031621.jpeg",
+            "https://images.pexels.com/photos/7031716/pexels-photo-7031716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://images.pexels.com/photos/7031711/pexels-photo-7031711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        ],
+        "status": false
+    },
+    {
+        "titulo": "Apart. 5 dorm. Fatima",
+        "descricao": "Linda casa de 5 dormitórios localizada num dos melhores bairros de Fortaleza.",
+        "valor": 150000,
+        "area": 160,
+        "quartos": 5,
+        "tipo": "casa",
+        "localizacao": "Avenida Borges De Melo, Fatima",
+        "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15925.000640069977!2d-38.553594135188696!3d-3.755628393539252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c74924f7173b4f%3A0xc7bc66b228854778!2sAvenida%20Borges%20De%20Melo%2C%201881!5e0!3m2!1spt-BR!2sbr!4v1729104876707!5m2!1spt-BR!2sbr' width='600' height='450' style='border:0;'' allowfullscreen=''' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "venda_aluguel": "venda",
+        "finalidade": "residencial",
+        "fotos": [
+            "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://images.pexels.com/photos/17302411/pexels-photo-17302411/free-photo-of-casas-residencias-construcao-predio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        ],
+        "status": false
+    }
+]
